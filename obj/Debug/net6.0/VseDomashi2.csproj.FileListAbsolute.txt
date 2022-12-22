@@ -1,0 +1,15 @@
+C:\Users\Mikail\Desktop\Seminar\Domaha\VseDomashi2\obj\Debug\net6.0\VseDomashi2.csproj.AssemblyReference.cache
+C:\Users\Mikail\Desktop\Seminar\Domaha\VseDomashi2\obj\Debug\net6.0\VseDomashi2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mikail\Desktop\Seminar\Domaha\VseDomashi2\obj\Debug\net6.0\VseDomashi2.AssemblyInfoInputs.cache
+C:\Users\Mikail\Desktop\Seminar\Domaha\VseDomashi2\obj\Debug\net6.0\VseDomashi2.AssemblyInfo.cs
+C:\Users\Mikail\Desktop\Seminar\Domaha\VseDomashi2\obj\Debug\net6.0\VseDomashi2.csproj.CoreCompileInputs.cache
+C:\Users\Mikail\Desktop\Seminar\Domaha\VseDomashi2\bin\Debug\net6.0\VseDomashi2.exe
+C:\Users\Mikail\Desktop\Seminar\Domaha\VseDomashi2\bin\Debug\net6.0\VseDomashi2.deps.json
+C:\Users\Mikail\Desktop\Seminar\Domaha\VseDomashi2\bin\Debug\net6.0\VseDomashi2.runtimeconfig.json
+C:\Users\Mikail\Desktop\Seminar\Domaha\VseDomashi2\bin\Debug\net6.0\VseDomashi2.dll
+C:\Users\Mikail\Desktop\Seminar\Domaha\VseDomashi2\bin\Debug\net6.0\VseDomashi2.pdb
+C:\Users\Mikail\Desktop\Seminar\Domaha\VseDomashi2\obj\Debug\net6.0\VseDomashi2.dll
+C:\Users\Mikail\Desktop\Seminar\Domaha\VseDomashi2\obj\Debug\net6.0\refint\VseDomashi2.dll
+C:\Users\Mikail\Desktop\Seminar\Domaha\VseDomashi2\obj\Debug\net6.0\VseDomashi2.pdb
+C:\Users\Mikail\Desktop\Seminar\Domaha\VseDomashi2\obj\Debug\net6.0\VseDomashi2.genruntimeconfig.cache
+C:\Users\Mikail\Desktop\Seminar\Domaha\VseDomashi2\obj\Debug\net6.0\ref\VseDomashi2.dll

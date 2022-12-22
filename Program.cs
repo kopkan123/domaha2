@@ -1,4 +1,4 @@
-﻿        Console.WriteLine("Введите номер одной из 2 домашних");
+﻿        Console.WriteLine("Введите номер одной из 3 домашних");
 
           int Domaha = Convert.ToInt32(Console.ReadLine());
             switch (Domaha) {
@@ -30,6 +30,18 @@
 
           var r = n % 10;
           Console.WriteLine("Второе число: " + r);
+          break;
+          
+          case 3:
+          Console.WriteLine("Введите трехзначное число: ");
+          int chislo = Convert.ToInt32(Console.ReadLine());
+          if (chislo > 99 && chislo < 1000)
+          {
+            Console.WriteLine(chislo % 10);
+          }
+          else {
+            Console.WriteLine("Не трехзначное число!");
+          }
           break;
    
    }
